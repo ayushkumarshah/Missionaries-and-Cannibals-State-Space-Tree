@@ -10,6 +10,6 @@ solution=bfs(initial_state)
 t1=time()-t0
 print('Solution:', solution)
 print('space:',Node.num_of_instances)
-print('time:',t1)
+print('time:',t1,'seconds')
 
 
